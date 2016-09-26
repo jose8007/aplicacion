@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A layout example with a side menu that hides on mobile, just like the Pure website.">
+
+<title>APP LIBRESA &ndash; </title>
+
+
+<link rel="stylesheet" href="css/side-menu.css">
+    
+<script language="JavaScript" type="text/javascript" src="js/xpath.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/SpryData.js"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+
+       
+function getVarsUrl(){
+    var url= location.search.replace("?", "");
+    var arrUrl = url.split("&");
+    var urlObj={};   
+    for(var i=0; i<arrUrl.length; i++){
+        var x= arrUrl[i].split("=");
+        urlObj[x[0]]=x[1]
+    }
+    return urlObj;
+}
+        
+var Get = getVarsUrl();
+var params1= Get.isbn
+var porcion = params1.substring(3, 16);
+ 
+var dsBiblioteca = new Spry.Data.XMLDataSet("Libros.xml", "biblioteca/LIB-PRE[isbn = '"+porcion+"']");
+
+
+-->
+</script>
+    
+</head>
+    
+    
+<body>
+
+
+
+<div id="layout">
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
+    <div id="menu">
+        <div class="pure-menu pure-menu-open">
+            <a class="pure-menu-heading" href="index.html"><img src="imag/LOGOlibresa3A.png" width="120"></a>
+
+            <ul>
+                <li class="menu-item-divided pure-menu-selected"><a href="#">Home</a></li>
+                <li><a href="colecciones.html">Colecciones</a></li>
+
+                <li>
+                    <a href="plan.html">Plan lector</a>
+                </li>
+
+                <li><a href="#">Didactica</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="main"  spry:region="dsBiblioteca">
+        <div class="header">
+           
+          
+        </div>
+         
+         <div id="men1">
+             <span>{coleccion}</span>
+        <input type="image" src='imag/flecha1.png' alt="Regresar" id="btn1" onclick="goBack()" >
+             
+            </div> 
+        <div class="content" >
+        
+        <div spry:repeat="dsBiblioteca" spry:test="{ds_RowNumber}&lt;1;">
+        <img id="imagLib"   class="pure-img-responsive" src="%7Bimagen%7D" >
+            
+            
+            <lu id="datos">
+                <li><strong>Titulo:</strong>&nbsp;{titulo}</li>
+                <li><strong>Autor:</strong>&nbsp; {Autor}</li>
+                <li><strong>Isbn:</strong>&nbsp;{isbn}</li>
+                <li><strong>Colección:</strong>&nbsp;{coleccion}</li>
+                
+                </lu>
+                
+            
+                 <div class="clean"></div>
+            
+            <p id="resumen">{resumen}</p>
+            
+            </div>
+            <div class="clean"></div>
+            </div>         
+            
+        
+    </div>
+</div>
+
+
+
+
+
+<script src="js/ui.js"></script>
+
+
+</body>
+</html>

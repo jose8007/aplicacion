@@ -6,42 +6,42 @@
 		<Alumno></Alumno>
 		<Profe>AlasViento</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
 		<Imag>alas-al-viento</Imag>
+		
 		</Guias>
 	<Guias>
 		<Libro>¿HAY ALGUIEN AQUÍ?</Libro>
 		<Alumno>CuadeAlguienAqui</Alumno>
 		<Profe>AlguienAqui</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Hayalquien</Imag>
-		<f>2</f>
+		
 	</Guias>
 	<Guias>
 		<Libro>EL BESO MÁS LARGO DEL MUNDO</Libro>
 		<Alumno>Cuade BesoLargo</Alumno>
 		<Profe>BesoLargo</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Besolargo</Imag>
-		<f>2</f>
+		
 	</Guias>
 	<Guias>
 		<Libro>LA BIBLIOTECA DE LOS LIBROS VACÍOS</Libro>
 		<Alumno>CuadeBibliotecaImag</Alumno>
 		<Profe>BibliotecaLibros</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Bibliotecavacios</Imag>
-		<f>2</f>
+		
 	</Guias>	
 	<Guias>
 		<Libro>CANDELA</Libro>
 		<Alumno></Alumno>
 		<Profe>Candela</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 <Imag>Candela</Imag>
 	</Guias>
 	<Guias>
@@ -49,16 +49,16 @@
 		<Alumno>Cuader Cangrejo</Alumno>
 		<Profe>CangrejoCurioso</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Cangrecurio</Imag>
-		<f>2</f>
+		
 	</Guias>
 	<Guias>
 		<Libro>CAPRY CHOZA, LA CHIVA MÁS LOCA</Libro>
 		<Alumno></Alumno>
 		<Profe>CapriChoza</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Caprychoza</Imag>
 	</Guias>
 	<Guias>
@@ -66,7 +66,7 @@
 		<Alumno>CuadeCaraLimon</Alumno>
 		<Profe>CarameloLimon</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Carameloslimon</Imag>
 		<cod>spinola</cod>
 	</Guias>
@@ -75,16 +75,16 @@
 		<Alumno>CuadeCasaCrimen</Alumno>
 		<Profe>CasaCrimen</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>CasaCrimen</Imag>
-		<f>2</f>
+		
 	</Guias>
 	<Guias>
 		<Libro>EL CIENTÍFICO</Libro>
 		<Alumno>CuadeCientifico</Alumno>
 		<Profe>Cientifico</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>cientifico</Imag>
 	</Guias>
 	<Guias>
@@ -92,17 +92,17 @@
 		<Alumno>CuadeClodomiro</Alumno>
 		<Profe>Clodomiro el rey sin corona</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Clodomiro</Imag>
 		<cod>spinola</cod>
-		<f>2</f>
+		
 	</Guias>
 	<Guias>
 		<Libro>LA CORNETA CON FLECOS</Libro>
 		<Alumno>CuadeCornetaFlecos</Alumno>
 		<Profe>CornetaFlecos</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Cornetaflecos</Imag>
 	</Guias>
 	<Guias>
@@ -110,16 +110,16 @@
 		<Alumno></Alumno>
 		<Profe>CuentoOtravez</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Cuentootravez</Imag>
 		<cod>spinola</cod>
 	</Guias>
 	<Guias>
 		<Libro>DESPERFECTO</Libro>
-		<Alumno></Alumno>
+		<Alumno>CuadeDesper</Alumno>
 		<Profe>Desperfecto</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Desperfecto</Imag>
 	</Guias>
 	<Guias>
@@ -127,7 +127,7 @@
 		<Alumno>CuadeDonaRosita</Alumno>
 		<Profe>DonaRosita</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Donarosita</Imag>
 		<cod>spinola</cod>
 	</Guias>
@@ -136,7 +136,7 @@
 		<Alumno></Alumno>
 		<Profe>EL Arcoiris que perdio un color</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Arcoiriscolor</Imag>
 	</Guias>
 	<Guias>
@@ -144,7 +144,7 @@
 		<Alumno>CuadeHombreArana</Alumno>
 		<Profe>El Hombre Araña y Yo</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>hombrearana</Imag>
 	</Guias>
 	<Guias>
@@ -152,24 +152,24 @@
 		<Alumno>CuadeHombreReloj</Alumno>
 		<Profe>El hombre de los mil relojes</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Hombrereloj</Imag>
 	</Guias>
 	<Guias>
 		<Libro>EL MEJOR CUMPLEAÑOS DE MI MAMI</Libro>
-		<Alumno></Alumno>
+		<Alumno>CuadeMejorcumple</Alumno>
 		<Profe>El Mejor cumpleaños de mi mami</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Cumplemami</Imag>	
 		<cod>spinola</cod>	
 	</Guias>
 	<Guias>
 		<Libro>EL ROMANCE DE LA DUERMESIEMPRE</Libro>
-		<Alumno></Alumno>
+		<Alumno>CuadeDuermeSiempre</Alumno>
 		<Profe>El Romance de la Duermesiempre</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Duermesiempre</Imag>
 	</Guias>
 	<Guias>
@@ -177,7 +177,7 @@
 		<Alumno>CuadeViajeAbu</Alumno>
 		<Profe>El Viaje de la Abuela</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Viajeabuela</Imag>
 	</Guias>
 	<Guias>
@@ -185,7 +185,7 @@
 		<Alumno>CuadeExpeNubesImag</Alumno>
 		<Profe>ExpedicionNubes</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Expedinubes</Imag>
 	</Guias>
 	<Guias>
@@ -193,15 +193,15 @@
 		<Alumno>CuadeFlores</Alumno>
 		<Profe>FloresHielo</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Florehielo</Imag>
 	</Guias>
 	<Guias>
 		<Libro>UNA GATA CON TODOS LOS NOMBRES DEL MUNDO</Libro>
 		<Alumno>CuadeGataTodos</Alumno>
-		<Profe>FloresHielo</Profe>
+		<Profe></Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Gatanombresa</Imag>
 		<cod>spinola</cod>
 	</Guias>
@@ -210,7 +210,7 @@
 		<Alumno></Alumno>
 		<Profe>GustoFrutilla</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Suenofrutilla</Imag>
 	</Guias>
 	<Guias>
@@ -218,7 +218,7 @@
 		<Alumno></Alumno>
 		<Profe>HabitacionSur</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Habitacionsur</Imag>
 	</Guias>
 		<Guias>
@@ -226,7 +226,7 @@
 		<Alumno>CuadeJazmines</Alumno>
 		<Profe>Jazmines</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>jazmines</Imag>
 	</Guias>
 		<Guias>
@@ -234,7 +234,7 @@
 		<Alumno></Alumno>
 		<Profe>JuanMonstruo</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Juanmonstrou</Imag>
 	</Guias>
 		<Guias>
@@ -242,15 +242,15 @@
 		<Alumno>CuadeBrujaOro</Alumno>
 		<Profe>La Bruja de Oro</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Brujaoro</Imag>
 	</Guias>
 	<Guias>
 		<Libro>LA NIÑA DEL ÁRBOL</Libro>
-		<Alumno></Alumno>
+		<Alumno>Cuade NinaArbol</Alumno>
 		<Profe>La Niña del Arbol</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Ninaarbol</Imag>
 	</Guias>
 	<Guias>
@@ -258,7 +258,7 @@
 		<Alumno></Alumno>
 		<Profe>LentesAbuelitas</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Lentesabuelit</Imag>
 	</Guias>
 	<Guias>
@@ -266,7 +266,7 @@
 		<Alumno></Alumno>
 		<Profe>MagicaHora</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Magicahora</Imag>
 	</Guias>
 	<Guias>
@@ -274,7 +274,7 @@
 		<Alumno>CuadeMalacara</Alumno>
 		<Profe>Malacara</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>malacara</Imag>
 	</Guias>
 	<Guias>
@@ -282,7 +282,7 @@
 		<Alumno></Alumno>
 		<Profe>MartinaEspada</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Martina</Imag>
 	</Guias>
 	<Guias>
@@ -290,7 +290,7 @@
 		<Alumno></Alumno>
 		<Profe>Mi Amigo el Abuelo</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Miamigoabuelo</Imag>
 	</Guias>
 	<Guias>
@@ -298,7 +298,7 @@
 		<Alumno></Alumno>
 		<Profe>Negrita</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Negrita</Imag>
 	</Guias>
 	<Guias>
@@ -306,7 +306,7 @@
 		<Alumno>CuadeNoviembre</Alumno>
 		<Profe>Noviembresin</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Ysipasa</Imag>
 	</Guias>
 	<Guias>
@@ -314,7 +314,7 @@
 		<Alumno>Cuade Orejas</Alumno>
 		<Profe>Orejas</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Orejas</Imag>
 	</Guias>
 	<Guias>
@@ -322,7 +322,7 @@
 		<Alumno></Alumno>
 		<Profe>Oro en la Selva</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Oroselva</Imag>
 	</Guias>
 	<Guias>
@@ -330,7 +330,7 @@
 		<Alumno>CuadePalabraHerm</Alumno>
 		<Profe>PalabraHermosa</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Palabrahermo</Imag>
 		<cod>Madrid</cod>
 	</Guias>
@@ -339,15 +339,15 @@
 		<Alumno>Cuade Perpetra</Alumno>
 		<Profe>Perpetrador</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Pepetra1</Imag>
 	</Guias>
 	<Guias>
 		<Libro>PIGSARÁN</Libro>
-		<Alumno></Alumno>
+		<Alumno>CuadePigsaran</Alumno>
 		<Profe>Pigsarán</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Pigsaran</Imag>
 	</Guias>
 	<Guias>
@@ -355,7 +355,7 @@
 		<Alumno>CuadePique</Alumno>
 		<Profe>Pique Pique</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Piquepique</Imag>
 	</Guias>
 	<Guias>
@@ -363,7 +363,7 @@
 		<Alumno>CuadePuroscora</Alumno>
 		<Profe>PurosCorazon</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Puroscorazon</Imag>
 	</Guias>									
 	<Guias>
@@ -371,31 +371,23 @@
 		<Alumno>CuadeQuijote</Alumno>
 		<Profe>RescatandoQuijote</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Rescaquijot</Imag>
-	</Guias>
-	<Guias>
-		<Libro>EL ROMANCE DE LA DUERMESIEMPRE</Libro>
-		<Alumno></Alumno>
-		<Profe>RomanceDuerme</Profe>
-		<Cole>Garabato</Cole>
-		<g>1</g>
-		<Imag>Duermesiempre</Imag>
 	</Guias>
 	<Guias>
 		<Libro>CUANDO LOS SAPOS SE ENAMORAN</Libro>
 		<Alumno>CuadeSaposEna</Alumno>
 		<Profe>SaposEnamoran</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Saposenamoran</Imag>
 	</Guias>
 	<Guias>
 		<Libro>IBA A SER SOLO UNA BROMA</Libro>
-		<Alumno></Alumno>
+		<Alumno>CuadeSoloBroma</Alumno>
 		<Profe>SerunaBroma</Profe>
 		<Cole>País del sol</Cole>
-		<g>1</g>
+		
 		<Imag>Ibaserbroma</Imag>
 	</Guias>
 	<Guias>
@@ -403,7 +395,7 @@
 		<Alumno></Alumno>
 		<Profe>TodoMundo</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Todounlugar</Imag>
 	</Guias>
 	<Guias>
@@ -411,7 +403,7 @@
 		<Alumno>CuadeGuitarra</Alumno>
 		<Profe>Una guitarra y un caballito</Profe>
 		<Cole>Garabato</Cole>
-		<g>1</g>
+		
 		<Imag>Gitarracaball</Imag>
 	</Guias>
 	<Guias>
@@ -419,7 +411,7 @@
 		<Alumno>CuadeVanEliminar</Alumno>
 		<Profe>VanEliminar</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Eliminarperros</Imag>
 	</Guias>
 	<Guias>
@@ -427,23 +419,22 @@
 		<Alumno></Alumno>
 		<Profe>VentanaSebas</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g></g>
+		
 		<Imag>VentanaSebas</Imag>
 	</Guias>
 	<Guias>
 		<Libro>POR LA VENTANA DE SOL</Libro>
-		<Alumno></Alumno>
+		<Alumno>CuadeVentanaSol</Alumno>
 		<Profe>VentanaSol</Profe>
 		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		
 		<Imag>Ventanasol</Imag>
 	</Guias>
 	<Guias>
 		<Libro>ZUZA Y ARQUÍMEDES</Libro>
 		<Alumno></Alumno>
 		<Profe>ZuzaArquimides</Profe>
-		<Cole>Mitad del mundo</Cole>
-		<g>1</g>
+		<Cole>Garabato</Cole>
 		<Imag>Zuzaarquim</Imag>
 	</Guias>
 	<Guias>
@@ -458,7 +449,7 @@
 		<Alumno>Cuade Confundido</Alumno>
 		<Profe></Profe>
 		<Cole>Garabato</Cole>
-		<Imag>Confundido</Imag>
+		<Imag>ConfundidoA</Imag>
 		<cod>spinola</cod>
 	</Guias>
 	<Guias>
@@ -668,7 +659,7 @@
 		<Libro>¡CUATRO OJOS!</Libro>
 		<Alumno>Cuade CuatroOjos</Alumno>
 		<Profe></Profe>
-		<Cole>Mitad del mundo</Cole>
+		<Cole>Garabato</Cole>
 		<Imag>Cuatrport</Imag>
 	</Guias>
 	<Guias>
@@ -720,13 +711,6 @@
 		<Cole>País del sol</Cole>
 		<Imag>Gentiles</Imag>
 	</Guias>			
-	<Guias>
-		<Libro>La niña del árbol</Libro>
-		<Alumno>Cuade NinaArbol</Alumno>
-		<Profe></Profe>
-		<Cole>Garabato</Cole>
-		<Imag>Ninaarbol</Imag>
-	</Guias>
 	<Guias>
 		<Libro>La pluma blanca y otros cuentos</Libro>
 		<Alumno>Cuade PlumaBlanca</Alumno>
@@ -857,13 +841,6 @@
 		<Imag>Miamigoabuelo</Imag>
 	</Guias>
 	<Guias>
-		<Libro>El Romance de la Duermesiempre</Libro>
-		<Alumno>CuadeDuermeSiempre</Alumno>
-		<Profe></Profe>
-		<Cole>Garabato</Cole>
-		<Imag>Duermesiempre</Imag>
-	</Guias>
-	<Guias>
 		<Libro>La Familia de Martina Espadachini</Libro>
 		<Alumno>CuadeMartina</Alumno>
 		<Profe></Profe>
@@ -885,7 +862,7 @@
 		<Imag>Trillizastridi</Imag>
 	</Guias>
 	<Guias>
-		<Libro>Rayito y la princesa</Libro>
+		<Libro>Rayito y la princesa del médano</Libro>
 		<Alumno>CuadeRayito</Alumno>
 		<Profe></Profe>
 		<Cole>Mitad del mundo</Cole>
@@ -935,17 +912,10 @@
 	</Guias>
 	<Guias>
 		<Libro>El polisapo</Libro>
-		<Alumno>CuadeDisfruta</Alumno>
+		<Alumno>CuadePolisapo</Alumno>
 		<Profe></Profe>
 		<Cole>Mitad del mundo</Cole>
 		<Imag>Polisapo</Imag>
-	</Guias>
-	<Guias>
-		<Libro>Iba a ser solo una broma</Libro>
-		<Alumno>CuadeSoloBroma</Alumno>
-		<Profe></Profe>
-		<Cole>País del sol</Cole>
-		<Imag>Ibaserbroma</Imag>
 	</Guias>
 	<Guias>
 		<Libro>El Llanto de Odón</Libro>
@@ -968,7 +938,76 @@
 		<Cole>País del sol</Cole>
 		<Imag>Solosaber</Imag>
 	</Guias>
-
+	<Guias>
+		<Libro>El Braille del Arcoiris</Libro>
+		<Alumno>CuadeBraille</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Braille</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Huasipungo para niños</Libro>
+		<Alumno>CuadeHuasipungo</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Huasipungonino</Imag>
+	</Guias>
+	<Guias>
+		<Libro>La visita de Tanwo</Libro>
+		<Alumno>CuadeTanwo</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Tanwo</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Te lo cuento otra vez</Libro>
+		<Alumno>CuadeTelocuento</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Cuentootravez</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Una amiga para papá</Libro>
+		<Alumno>CuadeAmigapapa</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>AmigaPap</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Vueltas de vidas revueltas</Libro>
+		<Alumno>CuadeVueltas</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Vueltasvidas</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Sombras y sombritas</Libro>
+		<Alumno>CuadeSombras</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Sombrassombritas</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Ximena y los cuentos</Libro>
+		<Alumno>CuadeXimenacuentos</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Ximenacuentos</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Un beso para Lucy</Libro>
+		<Alumno>CuadeBesoLucy</Alumno>
+		<Profe></Profe>
+		<Cole>Mitad del mundo</Cole>
+		<Imag>Besolucy</Imag>
+	</Guias>
+	<Guias>
+		<Libro>Boomerang</Libro>
+		<Alumno>CuadeBoome</Alumno>
+		<Profe></Profe>
+		<Cole>Garabato</Cole>
+		<Imag>Boomerang</Imag>
+	</Guias>	
 
 						
 																																											
